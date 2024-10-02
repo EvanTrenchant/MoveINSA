@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/home-view.css');
+@import url('./views/login-view.css');
+@import url('./views/partner-view.css');    html {
+      --lumo-primary-color: hsl(214, 0%, 99%);
+      --lumo-primary-color-50pct: hsla(214, 0%, 99%, 0.5);
+      --lumo-primary-color-10pct: hsla(214, 0%, 99%, 0.1);
+      --lumo-base-color: #dbdbdb;
+
+    }
